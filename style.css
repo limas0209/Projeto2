@@ -1,0 +1,8 @@
+body{
+    background-image: linear-gradient(to right, rgb(100, 100, 212), rgb(42, 23, 211), rgb(65, 120, 202));
+}
+
+#imagens{
+    width: 900px;
+    height: 900px;
+}
